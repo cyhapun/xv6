@@ -197,7 +197,7 @@ UPROGS=\
 	$U/_primes\
 	$U/_xargs\
 	$U/_find\
-
+	$U/_pingpong\
 
 
 ifeq ($(LAB),syscall)
